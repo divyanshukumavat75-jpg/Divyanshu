@@ -1,3 +1,3 @@
 # Divyanshu
 This is my frist progarm<br>
-Author : Divyanshu Kumavat
+Author : Divyanshu Kumavat (Pro player)
